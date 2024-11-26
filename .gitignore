@@ -1,0 +1,84 @@
+# Java
+*.class
+hs_err_pid*
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+target/
+.mvn/
+.m2/
+
+# VI(M)
+*.swp
+
+# Eclipse
+.project
+.classpath
+.metadata
+.settings/
+bin/
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+out/
+.idea/
+.idea_modules/
+
+# NetBeans
+nbactions.xml
+nb-configuration.xml
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+
+# Visual Studio Code
+.code-workspace
+.vscode/
+
+# Package files
+*.jar
+*.war
+*.nar
+*.rar
+*.sar
+*.ear
+*.zip
+*.gz
+*.tar
+*.tgz
+*.7z
+
+# MacOS files
+.DS_Store
+
+# Windows files
+*.exe
+*.com
+*.dll
+*.bat
+*.cmd
+*.msi
+thumbs.db
+desktop.ini
+
+# Log files
+*.log
+*.out
+logs/
+
+# Temp files
+temp/
+tmp/
+
+# Backup files
+*.bak
